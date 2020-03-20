@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/redis_py.iml
+.idea/vcs.xml
+CfpqData/__pycache__/
+Dev/GraphExamples/__pycache__/
+Dev/GraphQueries/__pycache__/
+"Dev/\200!>\353)V"
+"Dev/\200Q\004\274\304U"
+"Dev/\200\361Z\255\226U"
+Redis/__pycache__/
+RedisGraph/__pycache__/
+results/
+main.py
