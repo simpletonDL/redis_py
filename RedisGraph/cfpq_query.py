@@ -1,5 +1,4 @@
 from redisgraph import Graph
-from collections import Counter
 
 
 class CfpqResponse:
